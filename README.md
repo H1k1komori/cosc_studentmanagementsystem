@@ -1,8 +1,8 @@
-Student Management System
+**Student Management System** 
 
 This desktop application is a Student Management System designed to efficiently handle student data, including personal details, registration, and academic records. It uses Figma for designing the GUI, Python as the main programming language, and MySQL as the database to store student information.
 
-Features:
+**Features**:
 
 • Streamlined Administration: Simplifies the process of managing student
 data, from registration to records maintenance.
@@ -18,14 +18,14 @@ administrators and enhances the overall user experience.
 - **Robust Backend**: Developed in Python to ensure smooth and efficient operations.
 - **Reliable Data Storage**: Utilizes MySQL to securely store and manage student data.
 
-Installation
+**Installation**
 
 Prerequisites
 - Python 3.x
 - MySQL
 - Git
 
-Steps
+**Steps**
 
 1. Clone the Repository
 
@@ -47,13 +47,15 @@ Steps
 
        python main.py
 
-Usage
+**Usage**
+
 1. Add Students: Use the interface to add new students to the database.
 2. Search Students: Search for students using various criteria.
 3. Update Information: Modify existing student information as needed.
 4. Delete Students: Remove students from the database.
 
-Contributing
+**Contributing**
+
 We welcome contributions! Please follow these steps:
 
 1. Fork the repository.
@@ -69,10 +71,11 @@ We welcome contributions! Please follow these steps:
         git push origin feature-branch
 9. Open a pull request.
 
-License
+**License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+**Acknowledgments**
 
 Thanks to the open-source community for providing valuable resources and support.
+**Noted**: Ensure to change the file directory for the graphical user interface (GUI) as needed. Check the code to locate and update the paths to the GUI files.
