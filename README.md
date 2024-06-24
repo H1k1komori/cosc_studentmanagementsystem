@@ -44,7 +44,7 @@ Steps
 
 4. Run the Application
 
-        python main.py
+       python main.py
 
 Usage
 1. Add Students: Use the interface to add new students to the database.
@@ -68,8 +68,8 @@ We welcome contributions! Please follow these steps:
         git push origin feature-branch
 9. Open a pull request.
 
-        License
+License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-        Acknowledgments
+Acknowledgments
 Thanks to the open-source community for providing valuable resources and support.
